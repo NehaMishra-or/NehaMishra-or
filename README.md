@@ -22,7 +22,6 @@
 I believe coding is like solving puzzles—challenging but super exciting! 😃<br><br>
 ### 📫 Connect With Me<br>
 - GitHub: [@NehaMishra-or](https://github.com/NehaMishra-or)<br>
-- LinkedIn: [Neha Mishra](#) *(Add your LinkedIn link here)*<br>
 - Email: [nehamishraoriginol@gmail.com](mailto:nehamishraoriginol@gmail.com) 
 
 
