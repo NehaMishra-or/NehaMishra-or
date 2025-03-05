@@ -1,5 +1,29 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Neha Mishra<br><br>📚 **BCA 1st Year Student**  |  💡 **Tech Enthusiast**  |  🌱 **Learning to Code**<br><br>Hello! I’m Neha Mishra, a passionate first-year BCA student exploring the world of programming. I love learning new technologies and enhancing my coding skills every day.<br><br>### 🔭 I’m currently working on<br>- Building projects to improve my coding skills.<br>- Exploring **web development** and **problem-solving**.<br><br>### 👯 I’m looking to collaborate on<br>- Open-source projects.<br>- Web development and software development projects.<br><br>### 🤝 I’m looking for help with<br>- Understanding **data structures and algorithms**.<br>- Enhancing my backend development skills.<br><br>### 🌱 I’m currently learning<br>- **Python, C, and Frontend Technologies**.<br>- Database management and **SQL**.<br><br>### 💬 Ask me about<br>- Web development basics.<br>- My journey in coding and tech enthusiasm.<br><br>### ⚡ Fun fact<br>I believe coding is like solving puzzles—challenging but super exciting! 😃<br><br>### 📫 Connect With Me<br>- GitHub: [@NehaMishra-or](https://github.com/NehaMishra-or)<br>- LinkedIn: [Neha Mishra](#) *(Add your LinkedIn link here)*<br>- Email: [your-email@example.com](mailto:your-email@example.com) *(Replace with your email)*<br><br>---<br>**"Code, Learn, Build, Repeat!"**<br><br>
+# Hi there! 👋 I'm Neha Mishra<br><br>📚 **BCA 1st Year Student**  |  💡 **Tech Enthusiast**  |  🌱 **Learning to Code**<br><br>Hello! I’m Neha Mishra, a passionate first-year BCA student exploring the world of programming. I love learning new technologies and enhancing my coding skills every day.
+
+###  🔭 I’m currently working on 
+- Building projects to improve my coding skills.
+- Exploring **web development** and **problem-solving**.
+
+ ### 👯 I’m looking to collaborate on 
+ - Open-source projects.<br>
+ - Web development and software development projects.<br><br>
+ 
+ ### 🤝 I’m looking for help with<br>
+ - Understanding **data structures and algorithms**.<br>
+ - Enhancing my backend development skills.<br><br>
+ 
+ ### 🌱 I’m currently learning<br>
+ - **Python, C, and Frontend Technologies**.<br>
+ - Database management and **SQL**.<br><br>### 💬 Ask me about<br>- Web development basics.<br>
+ - My journey in coding and tech enthusiasm.<br><br>
+
+### ⚡ Fun fact<br>
+I believe coding is like solving puzzles—challenging but super exciting! 😃<br><br>
+### 📫 Connect With Me<br>
+- GitHub: [@NehaMishra-or](https://github.com/NehaMishra-or)<br>
+- LinkedIn: [Neha Mishra](#) *(Add your LinkedIn link here)*<br>
+- Email: [nehamishraoriginol@gmail.com](mailto:nehamishraoriginol@gmail.com) 
 
 
 ## 🌐 Socials:
