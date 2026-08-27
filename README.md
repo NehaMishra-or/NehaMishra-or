@@ -1,5 +1,10 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Neha Mishra<br><br>📚 **BCA 1st Year Student**  |  💡 **Tech Enthusiast**  |  🌱 **Learning to Code**<br><br>Hello! I’m Neha Mishra, a passionate first-year BCA student exploring the world of programming. I love learning new technologies and enhancing my coding skills every day.
+# Hi there! 👋 I'm Neha Mishra<br><br>📚 **BCA 3rd Year Student**  |  💡 **Tech Enthusiast**  |  🌱 **Learning to Code**<br><br>Hello! I’m Neha Mishra, a passionate third-year BCA student exploring the world of programming. I love learning new technologies and enhancing my coding skills every day.
+🎓 3rd Year Computer Science Student
+💻 Frontend Developer | HTML • CSS • JavaScript • PHP
+🚀 Building projects and improving my coding skills
+📚 Learning • Creating • Exploring
+
 
 ###  🔭 I’m currently working on 
 - Building projects to improve my coding skills.
